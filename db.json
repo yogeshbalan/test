@@ -1,0 +1,37 @@
+{
+  "httpStatus": "Ok",
+  "message": "success",
+  "success": true,
+  "data": {
+    "time": "2019-01-02T18:30:00.000Z",
+    "showWeatherData": true,
+    "showPollutionData": true,
+    "enableAutoRefresh": true,
+    "deepLink": "newspoint://open-%24%7C%24-pub=0:Across Publication-%24%7C%24-type=photo-%24%7C%24-domain=p-%24%7C%24-id=a5aa39cb8fbdf5651177d56236175c17-%24%7C%24-notiftitle=Aditi Rao Hydari Pics -%24%7C%24-notif=r-%24%7C%24-pubID=1",
+    "weatherData": {
+      "weatherLogo": "https://cdn.zeplin.io/5b89225b9efb60a06a1c7930/assets/97E752FA-03B5-4D94-AD0D-20D28FB93C86.png",
+      "cityName": "New Delhi",
+      "temp": "27 C"
+    },
+    "pollutionData": {
+      "aqiText": "AQI:",
+      "aqiLevel": "150",
+      "aqiMaskLogoUrl": "https://cdn.zeplin.io/5b89225b9efb60a06a1c7930/assets/77F10C90-8376-4DAC-AC39-9444A440B0EA.png",
+      "pollutionLevelText": "GOOD",
+      "pollutionLevelTextBackground": "#66b40b",
+      "pollutionLevelTextColor": "#FFFFFF"
+    },
+    "overflowMenu": [
+      {
+        "title": "Change Location",
+        "titleColor": "#4a4a4a",
+        "iconUrl": "https://cdn.zeplin.io/5b89225b9efb60a06a1c7930/assets/10CDDC9B-1C37-4AB4-B6B0-95BFF49DD7F2.png"
+      },
+      {
+        "title": "Don't Like",
+        "titleColor": "#4a4a4a",
+        "iconUrl": "https://cdn.zeplin.io/5b89225b9efb60a06a1c7930/assets/B8A56371-39F3-4D6B-A043-987A7370EB2B.png"
+      }
+    ]
+  }
+}
